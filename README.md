@@ -1,5 +1,5 @@
 ## 고객관리 시스템
-연습용 강의 목적 관리시스템이다
+연습용 강의 목적 관리시스템이다!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
